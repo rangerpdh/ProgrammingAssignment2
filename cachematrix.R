@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Utilized the makeVector function example and replaced the mean function with the 
 ## inverse function. Changed it from a vector to a matrix & replaced the m data value with inv.
 
